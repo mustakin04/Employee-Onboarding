@@ -5,6 +5,12 @@ A **multi-step employee onboarding form** built with **React.js, Tailwind CSS, R
 
 ---
 
+## 📸 Live Demo
+
+🚀 View the live form on Netlify
+
+Link:https://grand-biscuit-590c41.netlify.app/
+
 ## ✨ Features
 
 - **5-step form wizard**
