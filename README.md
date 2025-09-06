@@ -66,7 +66,7 @@ employee-onboarding-form/
 
 1. Clone repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/employee-onboarding-form.git
+   git clone https://github.com/mustakin04/Employee-Onboarding.git
    cd my-project
 
 
