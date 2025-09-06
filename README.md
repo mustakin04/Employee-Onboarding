@@ -69,5 +69,50 @@ employee-onboarding-form/
    git clone https://github.com/mustakin04/Employee-Onboarding.git
    cd my-project
 
+## 📊 Mock Data
 
+Managers: 14+ across Engineering, Marketing, Sales, HR, Finance (src/data/managers.js)
+
+Skills: 8–10 per department (src/data/skills.js)
+
+## ✅ Assumptions
+
+Phone format: +1-123-456-7890 (validated via regex)
+
+Weekend rule: Friday (5) and Saturday (6) treated as weekends (per task)
+
+Profile Picture: Only JPG/PNG allowed, max size 2MB
+
+Confirmation: User must check confirmation before final submit
+
+## 🎯 Evaluation Criteria (from task)
+
+Technical Implementation → React, React Hook Form, Zod
+
+Business Logic & Conditions → Salary rules, remote approval, guardian requirement, weekend restrictions
+
+User Experience → Stepper navigation, inline validations, unsaved change warning
+
+Code Quality & Structure → Modular folders, reusable components, clean logic separation
+
+## 🔮 Bonus Ideas (optional)
+
+Track time spent per field (analytics)
+
+Support keyboard navigation (Tab / Enter)
+
+Use custom hooks for repeated logic
+
+Implement optimistic UI for smooth updates
+
+Add error boundaries for friendly crash handling
+
+## 👨‍💻 Author
+
+Mustakin Hasan
+MERN Stack Developer | Frontend Engineer
+
+GitHub: mustakin04
+
+Email: mustakinhasan37@gmail.com
 
